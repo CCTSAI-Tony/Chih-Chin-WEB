@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Chih-Chin Tsai",
+    "occupation":"College Station",
+    "description":"My interest areas are web design, software engineering, and data analytics as well.",
+    "image":"profilepic.jpg",
+    "bio":"Hi, my name is Chih-Chin (Tony) Tsai. I was born in Hsinchu, Taiwan. I’m currently seeking internship opportunities in SDE/WD/DA positions or other related positions starting July 2020.",
+    "bio2":"I'm a graduate student at Texas A&M University majored in Computer Engineering expected graduate in Apr 2022.",
+    "contactmessage":"Please send me emails if you have questions.",
+    "email": "o660086@tamu.edu",
+    "phone": "(+1) 979-888-3420",
+    "address":{
+      "street":"1903 Dartmouth St",
+      "city":"College Station",
+      "state":"Texas",
+      "zip": "77840"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://github.com/CCTSAI-Tony/resume/raw/master/resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100001333893798",
+        "className":"fa fa-facebook"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/chih-chin-tsai-38aa34114/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/o667621/?hl=zh-tw",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CCTSAI-Tony",
+        "className":"fa fa-github"
+      }
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"Languages: Python, Java, JavaScript",
+    "education":[
+      {
+        "school":"Texas A&M University (College Station, Texas)",
+        "degree":"Masters in Computer Engineering",
+        "graduated":"Expected graduate in April 2022",
+        "GPA":"GPA: 4.0/4.0",
+        "description":"Courses: CSCE 606 Software engineering, CSCE 629 Analysis of Algorithms, CSCE 689 SPTP: SFTWR ENG FOR SCI/ENG"
+      },
+      {
+        "school":"National Cheng Kung University (Tainan, Taiwan)",
+        "degree":"Bachelor in Chemical Engineering",
+        "graduated":"June 2014",
+        "GPA":"GPA: 3.24/4.0",
+        "description":"Courses: Database design, Object-Oriented Programming, Data Structure"
+      }
+    ],
+    "work":[
+      {
+        "company":"Taiwan Semiconductor Manufacturing Company",
+        "title":"Process Engineer ",
+        "years":"Aug. 2016 – Nov. 2019",
+        "description":"Developed Cu/Al process flow in lithography module. Tuned up a validate software to detect weak patterns from reticle’s layout."
+      }
+
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Django",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"65%"
+      },
+      {
+        "name":"MySQL",
+        "level":"70%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"60%"
+      },
+      {
+        "name":"Google App Engine",
+        "level":"65%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Tracking System",
+        "category":"Developed a tracking system for CS department stuff to record students’ profiles based on Django framework.",
+        "image":"CSCE606.jpg",
+        "url":"https://lateral-insight-272819.appspot.com/"
+      },
+      {
+        "title":"RosenBrock Function Optimization",
+        "category":"Transformed a math source code into a Python OOD (Object Oriented Design) package and built a test suite using PyTest.",
+        "image":"CSCE689.jpg",
+        "url":"https://github.com/CCTSAI-Tony/CSCE689_FINAL_PROJECT"
+      },
+      {
+        "title":"Full Stack Facial Recognition App",
+        "category":"Established a web app to locate the human faces of an image link uploaded by users.",
+        "image":"facial_recognition.jpg",
+        "url":"https://smart-brain3344.herokuapp.com/"
+      },
+      {
+        "title":"Robofriends React.js App",
+        "category":"Established a web app to fetch Third Party Web Services for creating virtual robofriends.",
+        "image":"robofriends.jpg",
+        "url":"https://cctsai-tony.github.io/robofriends/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+
+      {
+        "text":"That Tony Tsai must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak..."
+      }
+    ]
+  }
+}
