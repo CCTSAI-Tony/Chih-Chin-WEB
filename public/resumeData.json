@@ -134,6 +134,12 @@
         "category":"Established a web app to fetch Third Party Web Services for creating virtual robofriends.",
         "image":"robofriends.jpg",
         "url":"https://cctsai-tony.github.io/robofriends/"
+      },
+      {
+        "title":"Simplesocial Django App",
+        "category":"Established a social platform web app based on Django3 and implemented it in CRUD manner. Deployed on Heroku",
+        "image":"simplesocial.jpg",
+        "url":"https://mysocial66.herokuapp.com/"
       }
     ]
   },
