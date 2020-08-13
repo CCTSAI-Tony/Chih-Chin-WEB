@@ -63,8 +63,9 @@
       {
         "company": "Taiwan Semiconductor Manufacturing Company (TSMC)",
         "title": "Process Engineer ",
-        "years": "Aug. 2016 – Nov. 2019",
-        "description": "Developed Cu/Al process flow in lithography module. Tuned up a validate software to detect weak patterns from reticle’s layout."
+        "years": "Jul. 2018 – Feb. 2019",
+        "description": "Developed Cu/Al process flow and improved yield rate of Microelectromechanical system (MEMS) prod- uct to 98 %. Used correlation tools to analyze charts like scatter plot, histogram to inspect product’s quality. ",
+        "description2": "Tuned up a validate software to detect weak patterns from reticle’s layout. Expected to improve the yield loss from 5 % to be less than 1 % and set up a new rule for reticle layout design"
       }
     ],
     "skills": [
